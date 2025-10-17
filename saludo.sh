@@ -1,1 +1,1 @@
-echo "Hola Mundo con Jenkins y GH"
+echo "Hola Mundo con Jenkins y GH con Cron"
